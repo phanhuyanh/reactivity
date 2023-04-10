@@ -1,5 +1,5 @@
 # Qwick
-System manage state and reactive
+Framework HTML
 
 ## State
  - `window.ref`: khai báo 1 state. Thường dùng ref cho giá trị nguyên thủy
