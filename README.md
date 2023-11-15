@@ -107,6 +107,7 @@ Framework HTML
       }
       
       window.Button = Button
+      window.pubsub.publish('Button')
     ```
    
    - Khai báo 1 component Global: `componentName:global#method_event?`. component dùng chung trong 1 view
